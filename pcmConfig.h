@@ -39,7 +39,7 @@ Blog: https://tmrh20.blogspot.com/
 //#define DISABLE_SPEAKER2
 
   /* Use 8-bit TIMER2 - If using an UNO, Nano, etc and need TIMER1 for other things*/
-//#define USE_TIMER2
+#define USE_TIMER2
 
 //#define debug
 /****************** ADVANCED USER DEFINES ********************************
