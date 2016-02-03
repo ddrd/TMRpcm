@@ -7,7 +7,7 @@
 #else
 	#include <SdFat.h>
 #endif
-#include <TMRpcm.h>
+#include <TMRpcm_PLDuino.h>
 
 #if !defined (RF_ONLY)
 
