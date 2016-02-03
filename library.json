@@ -2,11 +2,11 @@
   "name": "PCM",
   "keywords": "sound, audio, music, sd, card, playback",
   "description": "PCM/WAV playback direct from SD card",
-  "include": "TMRpcm",
+  "include": "TMRpcm_PLDuino",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/TMRh20/TMRpcm.git"
+    "url": "https://github.com/digitalloggers/TMRpcm_PLDuino.git"
   },
   "frameworks": "arduino",
   "platforms": "atmelavr"
